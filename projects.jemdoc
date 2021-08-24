@@ -1,0 +1,30 @@
+# jemdoc: menu{MENU}{index.html}, showsource
+= Personal and Academic Projects
+
+== Electromagnetics Projects
+- Implementation of Finite Difference Frequency Domain and Finite Difference Time Domain methods
+in Matlab for solving 2D problems like transmission spectrum, absorption cross section, etc.
+- Study on Wireless Power Transfer and implementation of 2D FDFD eigenmode solver in Matlab.
+ /(group project)/ [WirelessPowerTransfer.pdf *PDF*]
+- Research and analysis of different excitations signals which could be used to improve the simulation
+speed and accuracy of time domain simulations in CST Microwave Studio.
+- Comparison and analysis of DC results of CST Microwave Studio(high frequency solver) with CST
+EM Studio(low frequency solver).
+
+
+== Hardware and Circuit Design Projects
+- Design of a low phase noise voltage controlled oscillator circuit in CMOS technology. Simulations were performed in Cadence
+Virtuoso.
+- Optimisation of a differential MOS amplifier and current bias circuit for maximising gain and bandwidth and reducing power
+consumption. Simulations were performed in HSpice. /(group project)/
+- Built a bouncing robot which could respond to light and sound inputs and actuate motors and
+produce sound./(edX course: Electronic Interfaces)/
+
+
+== Signal Processing and Wireless Communications Projects
+- Implementation of Synthetic Aperture Radar Imaging (SAR) algorithm in Matlab.
+- Implementation of different Machine Learning algorithms for Prediction and Analysis of Cardiac
+Arrhythmia./(group project)/ [ML_CardiacArrhythmia.pdf *PDF*]
+- Literature survey of the channel capacity of wireless channels under different conditions like fading
+environment, CSI at receiver and transmitter, MIMO systems, etc. [Survey_ChannelCapacity.pdf *PDF*]
+
