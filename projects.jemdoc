@@ -1,5 +1,18 @@
 # jemdoc: menu{MENU}{index.html}, showsource
+= Projects
+
+== Consulting Projects 
+- [https://www.upwork.com/freelancers/gvasu Upwork projects and reviews] 
+- [http://codementor.io/@vasugupta9 Codementor projects and reviews] 
+
 = Personal and Academic Projects
+
+== Computer Vision and Deep Learning 
+- Image Classifier for The Street View House Numbers (SVHN) Dataset [https://github.com/vasugupta9/DeepLearningProjects/tree/main/StreetViewHouseNumbers_Classifier *Code*]
+- A Simple CNN Image Classifier for Cifar-10 dataset [https://github.com/vasugupta9/DeepLearningProjects/tree/main/CIFAR10_Image_Classifier *Code*]
+- Convolutional Neural Network Visualizer [https://github.com/vasugupta9/DeepLearningProjects/tree/main/ConvolutionalNeuralNetworkVisualizer *Code*]
+- Transfer Learning example using ResNet-50 architecture [https://github.com/vasugupta9/DeepLearningProjects/tree/main/TransferLearningResnet *Code*]
+- Neural Style Transfer using TensorFlow [https://github.com/vasugupta9/DeepLearningProjects/tree/main/NeuralStyleTransfer *Code*] [https://gvasu.medium.com/neural-style-transfer-using-tensorflow-7e0f3e789e0c *Blog*]
 
 == Electromagnetics Projects
 - Implementation of Finite Difference Frequency Domain and Finite Difference Time Domain methods
