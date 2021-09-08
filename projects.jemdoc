@@ -27,17 +27,17 @@ He even did some cleanups and optimizations after the project was closed. I real
 = Personal and Academic Projects
 
 == Computer Vision and Deep Learning Projects
-- Image Classifier for The Street View House Numbers (SVHN) Dataset [https://github.com/vasugupta9/DeepLearningProjects/tree/main/StreetViewHouseNumbers_Classifier *Code*]
-- A Simple CNN Image Classifier for Cifar-10 dataset [https://github.com/vasugupta9/DeepLearningProjects/tree/main/CIFAR10_Image_Classifier *Code*]
-- Convolutional Neural Network Visualizer [https://github.com/vasugupta9/DeepLearningProjects/tree/main/ConvolutionalNeuralNetworkVisualizer *Code*]
-- Transfer Learning example using ResNet-50 architecture [https://github.com/vasugupta9/DeepLearningProjects/tree/main/TransferLearningResnet *Code*]
-- Neural Style Transfer using TensorFlow [https://github.com/vasugupta9/DeepLearningProjects/tree/main/NeuralStyleTransfer *Code*] [https://gvasu.medium.com/neural-style-transfer-using-tensorflow-7e0f3e789e0c *Blog*]
 - TensorFlow Developer Certificate from TensorFlow [https://www.credential.net/064c6f52-1fc5-44a9-bf8c-263494f2b5d9 *Link*]
 - DeepLearning.AI TensorFlow Developer Professional Certificate ( 4 courses ) from Coursera [https://www.coursera.org/account/accomplishments/specialization/certificate/G4RTK4HJW54X *Link*]
 - DeepLearning.AI Deep Learning Specialization ( 5 courses ) from Coursera [https://www.coursera.org/account/accomplishments/specialization/certificate/XFSPN8M45PJM *Link*]
 - DeepLearning.AI Generative Adversarial Networks (GANs) Specialization ( 3 courses ) from Coursera [https://www.coursera.org/account/accomplishments/specialization/certificate/5DGWFGU83UYC *Link*]
 - University of Michigan Python for Everybody Specialization ( 5 courses ) from Coursera [https://www.coursera.org/account/accomplishments/specialization/certificate/RD3H8TNG964F *Link*]
-
+- Video Activity Recognition using 3D ResNet model [https://github.com/vasugupta9/DeepLearningProjects/tree/main/VideoActivityRecognition3DResnet *Code*] [https://gvasu.medium.com/recognizing-400-different-activities-in-videos-using-python-and-opencv-ee59cc6d61f6 *Blog*]
+- Neural Style Transfer using TensorFlow [https://github.com/vasugupta9/DeepLearningProjects/tree/main/NeuralStyleTransfer *Code*] [https://gvasu.medium.com/neural-style-transfer-using-tensorflow-7e0f3e789e0c *Blog*]
+- Convolutional Neural Network Visualizer [https://github.com/vasugupta9/DeepLearningProjects/tree/main/ConvolutionalNeuralNetworkVisualizer *Code*]
+- Transfer Learning example using ResNet-50 architecture [https://github.com/vasugupta9/DeepLearningProjects/tree/main/TransferLearningResnet *Code*]
+- Image Classifier for The Street View House Numbers (SVHN) Dataset [https://github.com/vasugupta9/DeepLearningProjects/tree/main/StreetViewHouseNumbers_Classifier *Code*]
+- A Simple CNN Image Classifier for Cifar-10 dataset [https://github.com/vasugupta9/DeepLearningProjects/tree/main/CIFAR10_Image_Classifier *Code*]
 
 == Electromagnetics Projects
 - Implementation of Finite Difference Frequency Domain and Finite Difference Time Domain methods
