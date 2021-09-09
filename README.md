@@ -1,3 +1,3 @@
-#Readme.md
+# Readme.md
 
-files for my personal website
+my personal website files
