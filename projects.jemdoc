@@ -39,6 +39,15 @@ He even did some cleanups and optimizations after the project was closed. I real
 - Image Classifier for The Street View House Numbers (SVHN) Dataset [https://github.com/vasugupta9/DeepLearningProjects/tree/main/StreetViewHouseNumbers_Classifier *Code*]
 - A Simple CNN Image Classifier for Cifar-10 dataset [https://github.com/vasugupta9/DeepLearningProjects/tree/main/CIFAR10_Image_Classifier *Code*]
 
+== Arduino Projects 
+- RFID Based Attendance System [https://github.com/vasugupta9/ArduinoProjects *Code*]
+- Smartphone Controlled Robotics Car [https://github.com/vasugupta9/ArduinoProjects *Code*]
+- Collision Avoidance Robotics Car [https://github.com/vasugupta9/ArduinoProjects *Code*]
+- Gesture Controlled Robotics Car [https://github.com/vasugupta9/ArduinoProjects *Code*]
+- Smart Door Lock based on Fingerprint Authentication [https://github.com/vasugupta9/ArduinoProjects *Code*]
+- Smart Home Automation System [https://github.com/vasugupta9/ArduinoProjects *Code*]
+- Water Overflow Detector (Without Arduino) [https://github.com/vasugupta9/ArduinoProjects *Code*]
+
 == Electromagnetics Projects
 - Implementation of Finite Difference Frequency Domain and Finite Difference Time Domain methods
 in Matlab for solving 2D problems like transmission spectrum, absorption cross section, etc.
