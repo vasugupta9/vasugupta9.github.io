@@ -1,6 +1,19 @@
 # jemdoc: menu{MENU}{index.html}, showsource
 = Projects
 
+== Work Projects at Parspec
+- *Parsing and OCRing of tables in pdf documents* - developed custom computer vision algorithms for parsing structure of complex bordered tables ( tables with merged rows and columns ) with ~98% accuracy on our test set , much better than some of the available solutions we tested. OCRing of text was performed using available open-source and commercial solutions
+
+- *Detecting header rows and specific columns in tabular data* - trained/fine-tuned BERT based models on custom dataset with >95% accuracy on our test set
+
+- *Extracting family/model names from lighting product datasheets* - developed custom annotations tool for faster, more efficient annotations; trained NER models on our custom dataset with >90% accuracy on test set
+
+- *Submittal Aggregator* - developed custom algorithms for matching rows in table of contents in submittal pdf documents to corresponding pages in the document.
+
+- *Product Recommendation System* - developed and implemented a multi-stage pipeline involving word classification, next word prediction and character-token based NER for extracting important technical specs from product datasheets for recommending similar products. Also, evaluated other heuristics and sentence vector-similarity based approaches for product recommendation.
+
+- *Distributed scalable pipeline for family name extraction and recommendation system* - developed and implemented a custom end-to-end pipeline involving document download, parsing and model inference for running on a distributed set of CPUs and GPUs. Motivation was to reduce number of GPUs required ( reduced from >20 with a naive approach to 1 GPU with dynamic scaling option) and allow full customizability and easy debugging.
+
 == Consulting Projects 
 - *Analysed and implemented algorithms for estimation of melanin and hemoglobin distribution in face regions from
 images captured using mobile selfie camera for a Canada based healthcare startup.* \n 
